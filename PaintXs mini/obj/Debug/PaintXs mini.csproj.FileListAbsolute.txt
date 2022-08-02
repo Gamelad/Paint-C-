@@ -1,0 +1,10 @@
+C:\Users\astar\Desktop\beaver\IT\Codding\РПМ\PaintXs mini\PaintXs mini\bin\Debug\PaintXs mini.exe.config
+C:\Users\astar\Desktop\beaver\IT\Codding\РПМ\PaintXs mini\PaintXs mini\bin\Debug\PaintXs mini.exe
+C:\Users\astar\Desktop\beaver\IT\Codding\РПМ\PaintXs mini\PaintXs mini\bin\Debug\PaintXs mini.pdb
+C:\Users\astar\Desktop\beaver\IT\Codding\РПМ\PaintXs mini\PaintXs mini\obj\Debug\PaintXs mini.csproj.AssemblyReference.cache
+C:\Users\astar\Desktop\beaver\IT\Codding\РПМ\PaintXs mini\PaintXs mini\obj\Debug\PaintXs_mini.Properties.Resources.resources
+C:\Users\astar\Desktop\beaver\IT\Codding\РПМ\PaintXs mini\PaintXs mini\obj\Debug\PaintXs mini.csproj.GenerateResource.cache
+C:\Users\astar\Desktop\beaver\IT\Codding\РПМ\PaintXs mini\PaintXs mini\obj\Debug\PaintXs mini.csproj.CoreCompileInputs.cache
+C:\Users\astar\Desktop\beaver\IT\Codding\РПМ\PaintXs mini\PaintXs mini\obj\Debug\PaintXs mini.exe
+C:\Users\astar\Desktop\beaver\IT\Codding\РПМ\PaintXs mini\PaintXs mini\obj\Debug\PaintXs mini.pdb
+C:\Users\astar\Desktop\beaver\IT\Codding\РПМ\PaintXs mini\PaintXs mini\obj\Debug\PaintXs_mini.PaintXs.resources
